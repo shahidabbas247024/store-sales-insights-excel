@@ -33,7 +33,7 @@ The following Excel functions and tools were used in this project:
 - December had the **highest orders**, driven by **Christmas and New Year’s Eve**.  
 - February had the **lowest orders**, likely due to being the shortest month.  
 
-![Orders by Month](images/Insight#1.jpeg)
+![Orders by Month](images/Insight1.jpeg)
 
 ---
 
@@ -41,7 +41,7 @@ The following Excel functions and tools were used in this project:
 - **Toys** and **Home & Kitchen** were the most profitable categories.  
 - **Beauty** ranked the lowest in terms of average revenue.  
 
-![Revenue Ranking](images/Insight#2.jpeg)
+![Revenue Ranking](images/Insight2.jpeg)
 
 ---
 
